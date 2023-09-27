@@ -1,0 +1,434 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Arqui/Questa/TestP2
+T_opt
+!s110 1687828589
+VooViHUAJPV>i`7MZ1SW5G3
+Z2 04 12 4 work Practica2_TB fast 0
+=22-ac8247c6ce1f-649a386c-341-5564
+Z3 !s124 OEM10U54 
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.2;73
+R1
+T_opt1
+!s110 1687912171
+VI@eHZiFAhF8AkoB9g1I873
+R2
+=1-ac8247c6ce1f-649b7eeb-120-5210
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+vAdder_32_Bits
+Z7 !s110 1688697647
+!i10b 1
+!s100 ]]1J@==K`8kPSg5PUDi8W3
+IPk<hVeWV6HFZanU[<Hzk;2
+Z8 dC:/Arqui/Questa/Practica2
+Z9 w1632510720
+8C:/Arqui/src/Practica2/Adder_32_Bits.v
+FC:/Arqui/src/Practica2/Adder_32_Bits.v
+!i122 204
+L0 13 16
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z12 !s108 1688697647.000000
+!s107 C:/Arqui/src/Practica2/Adder_32_Bits.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Adder_32_Bits.v|
+!i113 0
+Z13 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@adder_32_@bits
+vALU
+R7
+!i10b 1
+!s100 iATB4aN>`zH;oOzcYKO[13
+I]ig8;m^eE@4BU]6]0_8OO2
+R8
+w1687732836
+8C:/Arqui/src/Practica2/ALU.v
+FC:/Arqui/src/Practica2/ALU.v
+!i122 205
+L0 14 89
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/ALU.v|
+!i113 0
+R13
+R5
+n@a@l@u
+vALU_Control
+R7
+!i10b 1
+!s100 NW53JPzmnmRHeBjkfBgDl3
+Ig7nS4a<D0eV^^aPf;YJXL0
+R8
+w1687813590
+8C:/Arqui/src/Practica2/ALU_Control.v
+FC:/Arqui/src/Practica2/ALU_Control.v
+!i122 206
+L0 15 77
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/ALU_Control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/ALU_Control.v|
+!i113 0
+R13
+R5
+n@a@l@u_@control
+vAnd_2_1
+R7
+!i10b 1
+!s100 BYW:OeX0C0`fa5N5W:eA70
+IVXOUMZRc^aMTaL_dS93oX2
+R8
+w1687727073
+8C:/Arqui/src/Practica2/And_2_1.v
+FC:/Arqui/src/Practica2/And_2_1.v
+!i122 207
+Z14 L0 9 14
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/And_2_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/And_2_1.v|
+!i113 0
+R13
+R5
+n@and_2_1
+vControl
+R7
+!i10b 1
+!s100 @eU1c`f[4nXY>nOE]2O@h1
+IF3K4XV438d1_Um1c5NWFS2
+R8
+w1687743097
+8C:/Arqui/src/Practica2/Control.v
+FC:/Arqui/src/Practica2/Control.v
+!i122 208
+L0 10 69
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/Control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Control.v|
+!i113 0
+R13
+R5
+n@control
+vData_Memory
+R7
+!i10b 1
+!s100 0>WaILQjKm[CCKQHG_X_[1
+IV7Lf4:8HMA1MHflW5W=N;1
+R8
+w1687749304
+8C:/Arqui/src/Practica2/Data_Memory.v
+FC:/Arqui/src/Practica2/Data_Memory.v
+!i122 209
+L0 9 35
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/Data_Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Data_Memory.v|
+!i113 0
+R13
+R5
+n@data_@memory
+vDecoder_Register_File
+R7
+!i10b 1
+!s100 McjJ;eT`CL^gKzSaHBkF33
+ITTlD<nm?5ngeHj9@c]hPd0
+R8
+R9
+8C:/Arqui/src/Practica2/Decoder_Register_File.v
+FC:/Arqui/src/Practica2/Decoder_Register_File.v
+!i122 210
+L0 12 50
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/Decoder_Register_File.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Decoder_Register_File.v|
+!i113 0
+R13
+R5
+n@decoder_@register_@file
+vImmediate_Unit
+R7
+!i10b 1
+!s100 Z5;o5V2Y8<Ucd]P?[UD:<2
+I=70PdXc?mezZGd@]TGWz]0
+R8
+w1687732681
+8C:/Arqui/src/Practica2/Immediate_Unit.v
+FC:/Arqui/src/Practica2/Immediate_Unit.v
+!i122 211
+L0 14 30
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/Immediate_Unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Immediate_Unit.v|
+!i113 0
+R13
+R5
+n@immediate_@unit
+vMultiplexer_2_to_1
+R7
+!i10b 1
+!s100 ;:eeJ;AHY7A^Ld9RHQfQ[0
+IOa^37X8YnYTdXzGoDTo6l2
+R8
+R9
+8C:/Arqui/src/Practica2/Multiplexer_2_to_1.v
+FC:/Arqui/src/Practica2/Multiplexer_2_to_1.v
+!i122 212
+L0 13 21
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/Multiplexer_2_to_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Multiplexer_2_to_1.v|
+!i113 0
+R13
+R5
+n@multiplexer_2_to_1
+vMUXRegisterFile
+Z15 !s110 1688697648
+!i10b 1
+!s100 nBWFB0n:b]lZh_XigEU=]1
+IUNmM2BGAZ_zg@C0C31[RQ3
+R8
+R9
+8C:/Arqui/src/Practica2/MUX_Register_File.v
+FC:/Arqui/src/Practica2/MUX_Register_File.v
+!i122 213
+L0 2 82
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 C:/Arqui/src/Practica2/MUX_Register_File.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/MUX_Register_File.v|
+!i113 0
+R13
+R5
+n@m@u@x@register@file
+vPC_Register
+R15
+!i10b 1
+!s100 _eD0RXMdR6B[1odGKg:Fl2
+IVUeK^kWlCkVG3cZL>>5@:3
+R8
+w1687825351
+8C:/Arqui/src/Practica2/PC_Register.v
+FC:/Arqui/src/Practica2/PC_Register.v
+!i122 214
+L0 15 21
+R10
+R11
+r1
+!s85 0
+31
+Z16 !s108 1688697648.000000
+!s107 C:/Arqui/src/Practica2/PC_Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/PC_Register.v|
+!i113 0
+R13
+R5
+n@p@c_@register
+vPractica2
+R15
+!i10b 1
+!s100 TWngWgZ?ndkMcd9k5P@6H3
+IP=cd3eEKBFgGJP[FJ1FKN1
+R8
+w1687840387
+8C:/Arqui/src/Practica2/Practica2.v
+FC:/Arqui/src/Practica2/Practica2.v
+!i122 215
+L0 16 301
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 C:/Arqui/src/Practica2/Practica2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Practica2.v|
+!i113 0
+R13
+R5
+n@practica2
+vPractica2_TB
+R15
+!i10b 1
+!s100 MTo<fn[4Z[;lLMV9^]Qk13
+I7RA8igOg_Ilc?CYX]DlRf0
+R8
+w1687747974
+8C:/Arqui/src/Practica2/Practica2_TB.v
+FC:/Arqui/src/Practica2/Practica2_TB.v
+!i122 216
+L0 11 26
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 C:/Arqui/src/Practica2/Practica2_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Practica2_TB.v|
+!i113 0
+R13
+R5
+n@practica2_@t@b
+vProgram_Memory
+R15
+!i10b 1
+!s100 HlMmBGB:_K?mK_lh@NazX1
+IXlGG1eT;C8zHgkcVXeMhh0
+R8
+w1687749471
+8C:/Arqui/src/Practica2/Program_Memory.v
+FC:/Arqui/src/Practica2/Program_Memory.v
+!i122 217
+L0 15 28
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 C:/Arqui/src/Practica2/Program_Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Program_Memory.v|
+!i113 0
+R13
+R5
+n@program_@memory
+vRegister
+R15
+!i10b 1
+!s100 KMh2N[ec:Z?MI7h?9l4P53
+I7?5ebi<EB>76l3TcC7@of3
+R8
+w1687819059
+8C:/Arqui/src/Practica2/Register.v
+FC:/Arqui/src/Practica2/Register.v
+!i122 218
+L0 12 24
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 C:/Arqui/src/Practica2/Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Register.v|
+!i113 0
+R13
+R5
+n@register
+vRegister_File
+R15
+!i10b 1
+!s100 j<`BIfC^:40ozczOfzXbi0
+IIQVQ[h?;?XM8a<T:5`P4B3
+R8
+w1687828566
+8C:/Arqui/src/Practica2/Register_File.v
+FC:/Arqui/src/Practica2/Register_File.v
+!i122 219
+L0 15 516
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 C:/Arqui/src/Practica2/Register_File.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Register_File.v|
+!i113 0
+R13
+R5
+n@register_@file
+vXor_2_1
+R15
+!i10b 1
+!s100 RB5X4>c0fY19z@]J3^Q9D0
+IFg[76;Thkkzcl:gKNEbXR1
+R8
+w1687727140
+8C:/Arqui/src/Practica2/Xor_2_1.v
+FC:/Arqui/src/Practica2/Xor_2_1.v
+!i122 220
+R14
+R10
+R11
+r1
+!s85 0
+31
+R16
+!s107 C:/Arqui/src/Practica2/Xor_2_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Arqui/src/Practica2/Xor_2_1.v|
+!i113 0
+R13
+R5
+n@xor_2_1

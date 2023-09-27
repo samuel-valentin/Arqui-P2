@@ -1,0 +1,120 @@
+C:/Arqui/src/Practica2/Decoder_Register_File.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Decoder_Register_File.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Decoder_Register_File
+
+Top level modules:
+	Decoder_Register_File
+
+} {} {}} C:/Arqui/src/Practica2/ALU_Control.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/ALU_Control.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}} C:/Arqui/src/Practica2/Register.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Register.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Arqui/src/Practica2/MUX_Register_File.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/MUX_Register_File.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} C:/Arqui/src/Practica2/Practica2_TB.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Practica2_TB.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Practica2_TB
+
+Top level modules:
+	Practica2_TB
+
+} {} {}} C:/Arqui/src/Practica2/Immediate_Unit.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Immediate_Unit.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Immediate_Unit
+
+Top level modules:
+	Immediate_Unit
+
+} {} {}} C:/Arqui/src/Practica2/Program_Memory.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Program_Memory.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Program_Memory
+
+Top level modules:
+	Program_Memory
+
+} {} {}} C:/Arqui/src/Practica2/Practica2.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Practica2.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Practica2
+
+Top level modules:
+	Practica2
+
+} {} {}} C:/Arqui/src/Practica2/Control.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Control.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Arqui/src/Practica2/Xor_2_1.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Xor_2_1.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Xor_2_1
+
+Top level modules:
+	Xor_2_1
+
+} {} {}} C:/Arqui/src/Practica2/ALU.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/ALU.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Arqui/src/Practica2/Data_Memory.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Data_Memory.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} C:/Arqui/src/Practica2/And_2_1.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/And_2_1.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module And_2_1
+
+Top level modules:
+	And_2_1
+
+} {} {}} C:/Arqui/src/Practica2/Register_File.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Register_File.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} C:/Arqui/src/Practica2/Adder_32_Bits.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Adder_32_Bits.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Adder_32_Bits
+
+Top level modules:
+	Adder_32_Bits
+
+} {} {}} C:/Arqui/src/Practica2/Multiplexer_2_to_1.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/Multiplexer_2_to_1.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Multiplexer_2_to_1
+
+Top level modules:
+	Multiplexer_2_to_1
+
+} {} {}} C:/Arqui/src/Practica2/PC_Register.v {1 {vlog -work work -vopt -stats=none C:/Arqui/src/Practica2/PC_Register.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}}

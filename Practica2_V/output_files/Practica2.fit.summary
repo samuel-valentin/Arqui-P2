@@ -1,0 +1,18 @@
+Fitter Status : Successful - Mon Jun 26 20:26:58 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : Practica2
+Top-level Entity Name : Practica2
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 13,370 / 49,760 ( 27 % )
+    Total combinational functions : 8,254 / 49,760 ( 17 % )
+    Dedicated logic registers : 9,216 / 49,760 ( 19 % )
+Total registers : 9216
+Total pins : 34 / 360 ( 9 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
